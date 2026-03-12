@@ -3,8 +3,8 @@
 > Titre : Nas_Debian
 > Auteur : Evan Bonnal, Natalia Giraldo, Ludovic Dos Santos
 > Formation : Bachelor IT en Cyber
-> Période : 2 mars 2026 – 7 février 2026 (1 semaine)
->Établissement : La plateforme_
+> Durée : 1 semaine
+> Établissement : La plateforme_
 
 ---
 
