@@ -1,10 +1,11 @@
 # 🗄️ Projet Serveur NAS Securisé sous Debian
 
 > Titre : Nas_Debian
-Auteur : Evan Bonnal, Natalia Giraldo, Ludovic Dos Santos
-Formation : Bachelor IT en Cyber
-Période : 2 mars 2026 – 7 février 2026 (1 semaine)
-Établissement : La plateforme_
+> Auteur : Evan Bonnal, Natalia Giraldo, Ludovic Dos Santos
+> Formation : Bachelor IT en Cyber
+> Période : 2 mars 2026 – 7 février 2026 (1 semaine)
+>Établissement : La plateforme_
+
 ---
 
 ## 📝 Description
@@ -12,6 +13,7 @@ Période : 2 mars 2026 – 7 février 2026 (1 semaine)
 Ce projet consiste en la conception, l'installation et la configuration complète d'un serveur NAS (Network Attached Storage) à vocation professionnelle, basé sur une distribution Debian Linux.
 
 L'objectif principal est de fournir une solution de stockage robuste, hautement disponible et sécurisée, permettant à différents utilisateurs d'accéder à leurs données via de multiples protocoles, tout en garantissant une tolérance aux pannes matérielles et un plan de reprise d'activité (PRA).
+
 ---
 
 ## 🏗️ Architecture et Fonctionnalités
@@ -33,6 +35,7 @@ Technologie : Utilisation de l'outil rsync à travers un tunnel SSH sécurisé (
 
 ### 4. Interface d'Administration (GUI)
 Webmin : Déploiement d'une interface web de gestion complète (accessible en HTTPS sur le port 10000) permettant le monitoring des ressources (CPU, RAM, état du RAID) et la gestion simplifiée des utilisateurs et des partages.
+
 ---
 
 ## 🛠️ Technologies Utilisées
