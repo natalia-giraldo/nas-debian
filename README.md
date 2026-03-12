@@ -41,9 +41,9 @@ Webmin : Déploiement d'une interface web de gestion complète (accessible en HT
 
 # 🤝 Équipe
 
-(Evan Bonnal)[https://github.com/EvanBonnal/nas-debian]
-(Ludovic Dos Santos)[https://github.com/ludovicdos-santos-io/nas-debian]
-(Natalia Giraldo)[https://github.com/natalia-giraldo/nas-debian]
+[Evan Bonnal](https://github.com/EvanBonnal/nas-debian)
+[Ludovic Dos Santos](https://github.com/ludovicdos-santos-io/nas-debian)
+[Natalia Giraldo](https://github.com/natalia-giraldo/nas-debian)
 
 # 🎓 Contexte
 Projet réalisé dans le cadre de la formation d'Administration Système / Cybersécurité à La Plateforme.
